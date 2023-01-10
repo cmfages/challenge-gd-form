@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/challenge-gd-form/static/css/main.d9ee2113.css",
+    "main.js": "/challenge-gd-form/static/js/main.720f6c4d.js",
+    "static/js/787.31da14a0.chunk.js": "/challenge-gd-form/static/js/787.31da14a0.chunk.js",
+    "index.html": "/challenge-gd-form/index.html",
+    "main.d9ee2113.css.map": "/challenge-gd-form/static/css/main.d9ee2113.css.map",
+    "main.720f6c4d.js.map": "/challenge-gd-form/static/js/main.720f6c4d.js.map",
+    "787.31da14a0.chunk.js.map": "/challenge-gd-form/static/js/787.31da14a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ee2113.css",
+    "static/js/main.720f6c4d.js"
+  ]
+}
